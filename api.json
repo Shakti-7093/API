@@ -1,0 +1,17 @@
+{
+  "user":[
+    {
+      "id": 1,
+      "name": "Shakti Singh Chundawat",
+      "age": 19
+    },
+    {
+      "id": 2,
+      "name": "Jay",
+      "age": 21
+    }
+  ],
+  "todo":[],
+  "websites":[],
+  "store":[]
+}
